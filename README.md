@@ -1,6 +1,6 @@
 # Busines_Insight_360
 # Live Dashboard
-<video src ="https://github.com/saif90834/Busines_Insight_360/blob/main/Bi_360_Live.mp4"/>
+<video src ="https://github.com/saif90834/Busines_Insight_360/blob/main/Bi_360_Live.mp4" controls></video>
 https://app.powerbi.com/view?r=eyJrIjoiOGM4ZGNjODktODhiZS00YTA3LTlhNTAtMTMzZDJhYzY2MDU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 # Info
 Download user manual and get to know the key information of this tool.
